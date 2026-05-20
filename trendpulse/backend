@@ -1,0 +1,6 @@
+cd trendpulse/backend
+git init
+git add .
+git commit -m "TrendPulse backend v1"
+git remote add origin https://github.com/YOURNAME/trendpulse-backend
+git push -u origin main
